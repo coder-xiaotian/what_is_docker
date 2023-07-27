@@ -2,7 +2,7 @@
   "name": "what_is_docker",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /what_is_docker/",
     "dev": "slidev --open",
     "export": "slidev export"
   },
